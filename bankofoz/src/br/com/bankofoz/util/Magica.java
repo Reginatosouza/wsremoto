@@ -16,17 +16,7 @@ public class Magica {
 	}
 	
 	// construtor vazio
-	public Cliente() {
-		super();
-	}
-	//construtor cheio
-	public Cliente(int id, String nome, String cpf, String fone) {
-		super();
-		this.id = id;
-		this.nome = nome;
-		this.cpf = cpf;
-		this.fone = fone;
-	}
+	
 	// getters and setters
 	public int getId() {
 		return id;
