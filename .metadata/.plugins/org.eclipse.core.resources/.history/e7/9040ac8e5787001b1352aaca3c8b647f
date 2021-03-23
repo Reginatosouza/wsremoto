@@ -1,0 +1,20 @@
+package br.com.rubinhocar.teste;
+
+import javax.swing.JOptionPane;
+
+import br.com.rubinhocar.modelo.Veiculo;
+
+public class TesteVeiculo {
+	
+	public static void main(String[] args) {
+		
+		
+		Veiculo carro = new Veiculo();
+
+		
+				
+		
+	}
+
+}
+	

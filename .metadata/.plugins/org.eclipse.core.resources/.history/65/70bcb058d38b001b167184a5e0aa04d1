@@ -1,0 +1,5 @@
+package br.com.bankofoz.beans;
+
+public class Cliente {
+
+}

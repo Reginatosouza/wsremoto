@@ -1,0 +1,24 @@
+package br.com.rubinhocar.teste;
+
+import javax.swing.JOptionPane;
+
+import br.com.rubinhocar.modelo.Veiculo;
+
+public class TesteVeiculo {
+	
+	public static void main(String[] args) {
+		
+		
+		Veiculo carro = new Veiculo();
+		carro.preencherMontadora(JOptionPane.showInputDialog("Montadora"));
+		carro.preencherModelo("uno");
+		carro.preencherValor((float)15000.00);
+		carro.preencherBasico(false, (short)200);
+		System.out.println(carro.retornarTudo());
+		System.out.println("Desconto: " + carro.retornarDesconto());
+		
+				
+		
+	}
+
+}

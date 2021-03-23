@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;&apos; to &apos;decisao.DecisaoSimplesDesafio.DecisaoSimplesDesafio&apos;&#x0D;&#x0A;- Original project: &apos;logica&apos;&#x0D;&#x0A;- Destination element: &apos;decisao.DecisaoSimplesDesafio.DecisaoSimplesDesafio&apos;&#x0D;&#x0A;- Original element: &apos;decisao.DecisaoSimplesDesafio.DecisaoSimplesDesafio&apos;" description="Copy type" destination="/src&lt;decisao{DecisaoSimplesDesafio.java[DecisaoSimplesDesafio[DecisaoSimplesDesafio" element1="/src&lt;decisao{DecisaoSimplesDesafio.java[DecisaoSimplesDesafio[DecisaoSimplesDesafio" flags="589830" id="org.eclipse.jdt.ui.copy" members="1" policy="org.eclipse.jdt.ui.copyMembers" stamp="1615905440933" version="1.0"/>
+</session>

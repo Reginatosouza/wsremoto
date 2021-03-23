@@ -1,0 +1,19 @@
+package br.com.lojaxpto.modelo;
+
+public class pessoafisca {
+
+	@Override
+	public String toString() {
+		return "pessoafisca [getClass()=" + getClass() + ", hashCode()=" + hashCode() + ", toString()="
+				+ super.toString() + "]";
+	}
+
+	public pessoafisca() {
+		super();
+		// TODO Auto-generated constructor stub
+	}
+	
+	
+	
+
+}

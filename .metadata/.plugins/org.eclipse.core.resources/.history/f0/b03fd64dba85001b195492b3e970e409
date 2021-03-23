@@ -1,0 +1,18 @@
+package variaveis;
+
+public class TiposPrimitivos {
+	
+	
+	public static void main(String[] args) {
+		
+		String time1 = "ABC"
+	    String time2 = "XPTO"
+	    double entrada = 100.0;
+		int publico = 15000;
+		
+		
+		
+		
+	}
+
+}

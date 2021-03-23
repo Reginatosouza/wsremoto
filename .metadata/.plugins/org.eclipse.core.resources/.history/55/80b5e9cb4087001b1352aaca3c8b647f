@@ -1,0 +1,22 @@
+package br.com.rubinhoca.modelo;
+
+public class Veiculo {
+	
+	
+	private String montadora;
+	private float valor;
+	private short velocidadeAtual;
+	private boolean status;
+	private short velocidadeMaxima;
+	private String modelo;
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+}

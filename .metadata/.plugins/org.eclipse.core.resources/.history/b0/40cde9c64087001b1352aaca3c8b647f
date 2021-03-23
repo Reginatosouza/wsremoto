@@ -1,0 +1,5 @@
+package br.com.rubinhoca.modelo;
+
+public class Veiculo {
+
+}
